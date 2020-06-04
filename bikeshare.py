@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-CITY_DATA = { 'chicago': 'chicago.csv',
+CityData = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
@@ -51,7 +51,7 @@ def load_data(city, month, day):
     TO Do: Loading data for the specific city and filter it in month and day if applied 
     
     """
-    file_name = CITY_DATA[city]
+    file_name = CityData[city]
     print ("Accessgn data from: " + file_name)
     df = pd.read_csv(file_name)
 
