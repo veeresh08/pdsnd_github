@@ -29,7 +29,7 @@ A terminal application(Terminal on Mac and Linux or Cygwin on Windows)
 
 ### Files used
 Following files had been used for analysis of data:-
-* bikeshare.py
+* bikeshare.py(clone this file from repo)
 * [chicago.csv](https://drive.google.com/drive/folders/1jtwC5zqCGysBkDsGIwbfbF4kyRBXNtyl)
 * [washington.csv](https://drive.google.com/drive/folders/1jtwC5zqCGysBkDsGIwbfbF4kyRBXNtyl)
 * [new_york_city.csv](https://drive.google.com/drive/folders/1jtwC5zqCGysBkDsGIwbfbF4kyRBXNtyl)
