@@ -12,6 +12,20 @@ Type the following command to run:-
 ``````
 run python bikeshare.py
 ``````
+### Installation
+
+Following software must be installed first to use bikeshar.py:
+
+``````
+pip install pandas
+pip install numpy
+
+Git clone :- https://github.com/veeresh08/pdsnd_github.git
+
+A text editor like visual studio,Atom and sublime.
+A terminal application(Terminal on Mac and Linux or Cygwin on Windows)
+``````
+
 
 ### Files used
 Following files had been used for analysis of data:-
