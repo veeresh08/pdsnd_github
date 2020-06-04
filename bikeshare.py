@@ -1,3 +1,18 @@
+#!interpreter [optional-arg]
+# -*- coding: utf-8 -*-
+
+"""
+Author1: H. James de St. Germain (germain@eng.utah.edu)
+  % Author1: I worked alone
+  % Date:    04-06-2020
+  % Course:  Programming for Data Science with Python Nanodegree Program
+
+Description :  This script imports data from csv files and objective is to copute descriptive statistics from
+ the given data.it also takes raw input from the user to create interactive experience in the terminal to present
+  these statistics.
+
+"""
+
 import time
 import pandas as pd
 import numpy as np
